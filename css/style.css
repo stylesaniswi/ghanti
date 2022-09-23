@@ -1,0 +1,15 @@
+body{
+
+}
+.chooseneta{
+    background-color: rgba(187, 187, 58, 0.76);
+    padding: 30px;
+    margin: 20px;
+    align-content: center;
+    color: azure;
+}
+.chooseneta>img{
+    border-radius: 50%;
+    gap: 1.5rem;
+    padding: auto;align-items: center;
+}
